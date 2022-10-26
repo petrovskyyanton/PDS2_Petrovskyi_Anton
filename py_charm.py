@@ -8,3 +8,7 @@ def mane_function(x):
     # Comment for Commit 9. master
     set_of_smth = (1, 3, 24, f'{x}')
     return list_of_smth, set_of_smth
+
+
+def test_function(y):
+    t = int(input('Number:'))
