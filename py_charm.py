@@ -15,4 +15,5 @@ def test_function(y):
     a = t//10
     print(f'String with {y} and {a}')
 
+
 print(test_function(1), mane_function(1))
